@@ -1,0 +1,9 @@
+Darwin-17.2.0-x86_64-i386-64bit
+Seaborn 0.9.0
+Matplotlib 2.2.2
+NLTK 3.2.5
+requests 2.19.1
+BeautifulSoup 4.7.1
+re 2.2.1
+spacy 2.1.4
+gensim 3.4.
